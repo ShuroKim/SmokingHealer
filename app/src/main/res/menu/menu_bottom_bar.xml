@@ -4,16 +4,16 @@
     <item
         android:id="@+id/page_1"
         android:enabled="true"
-        android:icon="@android:drawable/btn_star"
+        android:icon="@drawable/ic_menu_health_main"
         android:title="메뉴1" />
     <item
         android:id="@+id/page_2"
         android:enabled="true"
-        android:icon="@android:drawable/btn_star"
+        android:icon="@drawable/ic_menu_calendar"
         android:title="메뉴2" />
     <item
         android:id="@+id/page_3"
         android:enabled="true"
-        android:icon="@android:drawable/btn_star"
+        android:icon="@drawable/ic_menu_calendar"
         android:title="메뉴3" />
 </menu>
