@@ -11,6 +11,8 @@
         android:theme="@style/Theme.SmokingHealer">
         <activity
             android:name=".MainActivity"
+            android:configChanges="orientation|keyboardHidden|screenLayout|locale|fontScale|uiMode"
+            android:screenOrientation="sensorPortrait"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
